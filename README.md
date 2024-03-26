@@ -97,6 +97,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MistreanuEmanuela/MistreanuEmanuela/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MistreanuEmanuela/MistreanuEmanuela/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
