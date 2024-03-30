@@ -100,3 +100,4 @@
 <img src="https://raw.githubusercontent.com/MistreanuEmanuela/MistreanuEmanuela/output/snake.svg" alt="Snake animation" />
 
 ###
+
