@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! I am Ema!</h2>
+
 🎓 Computer Science graduate with a Bachelor's degree.
 
 🌟 Committed to evolving in the tech industry.
