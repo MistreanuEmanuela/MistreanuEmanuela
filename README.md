@@ -1,5 +1,17 @@
-<h2 align="left">Hi 👋! Final-year computer science student!</h2>
+<h2 align="left">Hi 👋! I am Ema!</h2>
+🎓 Computer Science graduate with a Bachelor's degree.
 
+🌟 Committed to evolving in the tech industry.
+
+🧩 Strong problem-solving skills.
+
+🎨 Experience in design, HTML, CSS, JavaScript, and backend development.
+
+💻 Passionate about coding: from ideation to problem-solving and testing.
+
+🚀 Focused on personal growth and the evolution of technological systems.
+
+⏰ Excellent time management skills.
 ###
 
 <div align="center">
