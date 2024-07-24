@@ -20,6 +20,7 @@
   <img src="https://streak-stats.demolab.com?user=MistreanuEmanuela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MistreanuEmanuela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 ###
 
 <div align="center">
@@ -112,6 +113,14 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MistreanuEmanuela.MistreanuEmanuela&"  />
+</div>
+
+###
 
 ###
 
